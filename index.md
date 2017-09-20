@@ -4,6 +4,13 @@ titre-court: Le Projet
 titre: Un lieu pour vivre la démocratie
 ---
 
+## Prochain évènement
+
+  - **Thème:** [Assemblée pour le dépôt du Projet *Maison de la démocratie*](https://mouvement-16aout.github.io/Maison-democratie-Rimouski/projet.html)
+  - **Lieu:** Au Presse Café, [124 Rue Saint Germain O](https://www.google.ca/maps/place/Presse+Caf%C3%A9+Rimouski/@48.4490886,-68.5355792,17z/data=!3m1!4b1!4m5!3m4!1s0x4c95d990b21717b1:0x16d00380e2d1136b!8m2!3d48.4490886!4d-68.5333852?hl=fr)
+  - [Invitation Facebook](https://www.facebook.com/events/1246875502089227)
+
+
 ## La Maison de la Démocratie, c'est quoi?
 
 La Maison de la Démocratie, c'est le projet auquel nous vous convions dans le cadre du budget participatif proposé par la Ville de Rimouski.
@@ -32,7 +39,3 @@ D'autres projets ayant des impacts positifs sur la communauté pourraient y êtr
 Et puis, pourquoi la Maison de la Démocratie ne deviendrait-elle pas à terme un acteur de la vie politique municipale, en hébergeant des assemblées de quartier qui discuteraient des enjeux reliés à l'administration municipale et au vivre ensemble?
 
 Il y a à coup sûr, à un coin de rue de cette ville, dans une chambre d'étudiant ou dans les rêves déçus d'un vénérable vieillard, de bien meilleures idées. Nous voulons les entendre, et nous voulons leur donner vie. Profitons de la chance qui nous est donnée: il y a 150 000 $ à investir dans notre milieu et dans notre aveir.
-
-C'est un rendez-vous:
-
-**mercredi le 13 septembre, au [Bar la Rencontre](https://www.google.ca/maps/place/Bar+La+Rencontre+Enr/@48.4477923,-68.5354057,15z/data=!4m5!3m4!1s0x0:0x33feee016eed6d33!8m2!3d48.4477923!4d-68.5354057)**
