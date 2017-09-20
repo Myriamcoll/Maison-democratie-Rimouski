@@ -2,10 +2,10 @@ style:
   width: "200px"
 logo:
   img:
-    src: "https://budgetparticipatif-rimouski.com/rimouski/img/theme-client/logo-budget-participatif-rimouski.png"
+    src: "img/MDR_budget_participatif.png"
     alt: "logo du budget participatif de la ville de Rimouski"
 sections:
   - index
   - documentation
-  - reglements
+  - projet
   - presentation
