@@ -2,6 +2,14 @@
 layout: basics
 titre-court: Dépôt
 titre: Formulaire de dépôt du projet
+seo:
+  title: Formulaire de dépôt du projet | Maison de la démocratie
+  og:
+    title: Formulaire de dépôt du projet | Maison de la démocratie
+    description: >
+       Grâce à ce lieu phare de la participation citoyenne, la vie démocratique de Rimouski prendra son envol. Ainsi, nous pourrons nous attaquer collectivement aux défis de notre époque et trouver des solutions originales pour améliorer notre quotidien comme notre avenir.
+    img: img/MDR_budget_participatif.png
+
 ---
 
 ## Nom du projet

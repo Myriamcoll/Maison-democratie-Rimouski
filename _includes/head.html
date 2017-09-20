@@ -12,5 +12,16 @@
 {% include images.css %}
 {% include style.css %}
  </style>
-
+{%if page.seo.title %}
+<title>{{page.seo.title}}</title>
+{%endif%}
+{%if page.seo.og.title %}
+<meta property="og:title" content="{{ page.seo.og.title }} | Maison de la démocratie"/>
+{%endif%}
+{%if page.seo.og.title %}
+<meta property="og:description" content="{{ page.seo.og.description }}"/>
+{%endif%}
+{%if page.seo.og.title %}
+<meta property="og:image" content="{{site.url}}{{site.baseurl}}/{{ page.seo.og.img }}"/>
+{%endif%}
 </head>
