@@ -59,4 +59,4 @@ marge d'imprévu: 30 M$ *(288 car.)*
 ## Documents complémentaires (facultatif : un document de 2 pages au maximum de plans, esquisses, photos du site envisagé, texte descriptif supplémentaire, etc.)
 
   - **Annexe A**: Esquisse de plan
-  - **Annexe B**: [Arbre à objectifs]({{site.url}}{{site.baseurl}}/img/objectifs.jpg)
+  - **Annexe B**: [Le cadre logique du projet]({{site.url}}{{site.baseurl}}/img/cadre_logique.jpg) et [les besoins]({{site.url}}{{site.baseurl}}/img/besoins.jpg)
