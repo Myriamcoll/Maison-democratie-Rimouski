@@ -18,7 +18,7 @@ seo:
 
 ## Votre projet détient-il l'appui d'un partenaire du milieu? Si oui, lequel?
 
-La Maison de la démocratie est le fruit d'un travail collectif de citoyens. Une vingtaine de personnes ont été participé à son élaboration.
+La Maison de la démocratie est le fruit d'un travail collectif de citoyens. Une vingtaine de personnes ont participé à son élaboration.
 
 ## Description du projet (900 caractères maximum)
 
